@@ -1,0 +1,6 @@
+stage,sessions,pct_of_total,step_conv_pct
+Session Started,85000,100.0,100.0
+Reached Browse,69086,81.28,81.28
+Added to Cart,42988,50.57,62.22
+Reached Checkout,30628,36.03,71.25
+Order Placed,26618,31.32,86.91

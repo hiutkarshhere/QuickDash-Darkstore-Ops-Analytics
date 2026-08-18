@@ -1,0 +1,3 @@
+outcome,simple_did,regression_did,se_clustered,p_value,ci_95_low,ci_95_high
+avg_delivery_time_min,-1.78,-1.779,0.042,0.0,-1.862,-1.696
+pct_on_time_15min,12.699,12.697,1.207,0.0,10.33,15.063

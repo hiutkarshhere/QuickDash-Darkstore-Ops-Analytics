@@ -1,0 +1,4 @@
+order_outcome,pct_of_checkouts_reached
+ORDER_PLACED,86.9
+CHECKOUT_FAILED_STOCKOUT,9.1
+CHECKOUT_FAILED_OTHER,4.0

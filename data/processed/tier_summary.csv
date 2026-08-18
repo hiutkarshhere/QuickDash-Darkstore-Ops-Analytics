@@ -1,0 +1,4 @@
+tier,stores,avg_fulfillment,avg_on_time,avg_stockout_rate,total_gtv
+Bottom Third,20,95.06,41.06,3.72,132204790.0
+Mid Third,20,95.42,43.49,3.39,142898943.0
+Top Third,20,95.72,50.69,3.09,144585805.0
