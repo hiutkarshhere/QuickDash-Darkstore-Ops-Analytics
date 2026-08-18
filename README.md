@@ -1,11 +1,5 @@
 # QuickDash — Dark Store Operations & Causal Analytics
 
-**Project 3 of 5.** This one's different from the first two on purpose —
-instead of another funnel-and-retention project, this is an operations
-analytics project centered on a natural experiment: did a new
-order-routing engine actually reduce delivery times, and can that claim
-survive scrutiny given the rollout wasn't randomized?
-
 Stack: **Python (pandas, numpy, seaborn, statsmodels) → SQL (BigQuery) →
 Power BI**
 
