@@ -3,7 +3,7 @@
 Stack: **Python (pandas, numpy, seaborn, statsmodels) → SQL (BigQuery) →
 Power BI**
 
-> Same note as the other two projects in this series: QuickDash is a
+>QuickDash is a
 > fictional 10-minute delivery app (modeled on the Zepto/Blinkit/Instamart
 > category, not any specific one of them), and the dataset is a documented
 > simulation, not real company data. Full parameter list in
